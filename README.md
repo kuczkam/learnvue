@@ -1,4 +1,4 @@
-# shoper-find-frontend
+# zadanko
 
 ## Project setup
 ```
